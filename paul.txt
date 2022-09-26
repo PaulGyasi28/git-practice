@@ -1,1 +1,2 @@
-Hello world
+This is a webpage displaying fruits.
+Definitely one of many.
